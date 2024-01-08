@@ -70,9 +70,9 @@ ssh-keygen -t rsa -C "your_email@example.com" -f "id_rsa_work_user1"
 
 在 Windows 中： 打开计算机管理，OpenSSH Authentication Agent 设置为自动启动。
 
-![](C:\Users\ASUS\AppData\Roaming\marktext\images\2024-01-04-23-54-31-e76cc997-2646-45ad-846e-28497c56c2d3.png)
+![](.\2024-01-04-23-54-31-e76cc997-2646-45ad-846e-28497c56c2d3.png)
 
-![](C:\Users\ASUS\AppData\Roaming\marktext\images\2024-01-04-23-55-55-3146513a-365b-4414-aa2c-7c9ca69eb700.png)
+![](.\2024-01-04-23-55-55-3146513a-365b-4414-aa2c-7c9ca69eb700.png)
 
 <img src="file:///C:/Users/ASUS/AppData/Roaming/marktext/images/2024-01-04-23-56-26-416a7b72-1a3f-452e-9609-8b808a66a9d5.png" title="" alt="" width="399">
 
