@@ -1,7 +1,7 @@
 ---
 title: Git配置&&一台计算机上连接多个Github账户
 date: 2024-01-08 19:55:47
-tags:git
+tags: ["Git", "GitHub"]
 ---
 
 ### Git 配置文件
